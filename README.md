@@ -20,3 +20,23 @@ This project explores **LangGraph**, a framework for managing AI-driven workflow
 ```bash
 git clone https://github.com/your-username/LangGraph-With-AstraDB.git
 cd LangGraph-With-AstraDB
+🔹 Step 2: Set up virtual environment
+bash
+Copy
+Edit
+python -m venv venv  
+source venv/bin/activate  # For macOS/Linux  
+venv\Scripts\activate     # For Windows  
+🔹 Step 3: Install dependencies
+bash
+Copy
+Edit
+pip install -r requirements.txt
+🚀 Usage
+Open the Jupyter Notebook
+bash
+Copy
+Edit
+jupyter notebook
+Navigate to notebooks/3_Langraph_With_Astradb.ipynb
+Run the cells and experiment with LangGraph + AstraDB 
