@@ -15,4 +15,8 @@ This project explores **LangGraph**, a framework for managing AI-driven workflow
 - **AI Workflow:** LangGraph  
 - **Database:** AstraDB  
 - **Notebook Framework:** Jupyter  
-
+## ⚡ Installation  
+### 🔹 Step 1: Clone the repository  
+```bash
+git clone https://github.com/your-username/LangGraph-With-AstraDB.git
+cd LangGraph-With-AstraDB
