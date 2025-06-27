@@ -15,5 +15,5 @@ This project explores **LangGraph**, a framework for managing AI-driven workflow
 - **AI Workflow:** LangGraph  
 - **Database:** AstraDB  
 - **Notebook Framework:** Jupyter  
-## ⚡ Installation  
+ 
 
